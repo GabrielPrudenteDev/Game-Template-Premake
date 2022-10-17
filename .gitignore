@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+Game Template/.vs
+Game Template/Binaries
+Game Template/Intermediate
+Game Template/Package
